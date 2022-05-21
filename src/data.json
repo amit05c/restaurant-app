@@ -1,0 +1,43 @@
+
+[
+   {
+    "name" : "Bengali Special",
+     "recepie": ["chicken","Fish"],
+     "cost": "300",
+     "payment_methood": "Online only",
+     "image": "https://preview.redd.it/j5edwbln66u41.jpg?auto=webp&s=b2f93c7b977e7591c50f21e1633802b2211865ee",
+     "id": "Date.now()",
+     "rating":"3"
+    },
+
+    {
+        "name" : "Bengali Special",
+         "recepie": ["chicken","Fish"],
+         "cost": "300",
+         "payment_methood": "Online only",
+         "image": "https://preview.redd.it/j5edwbln66u41.jpg?auto=webp&s=b2f93c7b977e7591c50f21e1633802b2211865ee",
+         "id": "Date.now()",
+         "rating":"4"
+        },
+
+        {
+            "name" : "Bengali Special",
+             "recepie": ["chicken","Fish"],
+             "cost": "300",
+             "payment_methood": "Online only",
+             "image": "https://preview.redd.it/j5edwbln66u41.jpg?auto=webp&s=b2f93c7b977e7591c50f21e1633802b2211865ee",
+             "id": "Date.now()",
+             "rating":"1"
+            },
+
+            {
+                "name" : "Bengali Special",
+                 "recepie": ["chicken","Fish"],
+                 "cost": "200",
+                 "payment_methood": "Online only",
+                 "image": "https://preview.redd.it/j5edwbln66u41.jpg?auto=webp&s=b2f93c7b977e7591c50f21e1633802b2211865ee",
+                 "id": "Date.now()",
+                 "rating":"2"
+
+                }
+]
